@@ -43,52 +43,47 @@ Currently, `ripple` has been tested and works well on Ububtu OS, and can be set 
 ### Usage Guide
 1. Navigate to ``experiments/`` to find the source code for replicating the experiments in RQ1--RQ3 in the paper. This assumes the LLM outputs (e.g., ``gpt4o``, as stored in ``outputs``) are being used.
 
-  * **Option 1**. Run all experiments to print Tables 1--5 in the paper:
-  ```bash
-
-  ```
+  * **Option 1.** Run experiments independently:
   
-  * **Option 2.** Run experiments independently:
-  
-    - Intrinsic evaluation (RQ1)
+    - Intrinsic evaluation (RQ1, Table 1)
       ```bash
+      python intrinsic.py --llm {gpt|claude|gemini}
+      ```
 
+    - Stratified evaluation (RQ1, Table 2)
+      ```bash
+      python intrinsic_stratified.py
+      ```
+
+    - Sensitivity to seed edit localization (RQ1, Table 3)
+      ```bash
+      python intrinsic_sensitivity.py
       ```
 
     - Qualitative evaluation
       * *Sample-and-marginalize v/s Sample-and-aggregate* (RQ2.2)
       ```bash
-
-      ```
+      python intrinsic_stratified.py --llm gpt {--aggregate}
+      ```  
 
       * *Granularity* (RQ2.3)
       ```bash
-      
+      python granularity.py
       ```
 
-      * *Alignment of method summaries with Human-Written Documentation* (RQ2.4)
-      ```bash
-      
-      ```
-  
     - Ablation Study evaluation (RQ3)
     ```bash
-    
+    python ablation.py
     ```
 
 2. Navigate to top-level directory to build x-LLM model outputs from scratch.
 
-    **Option 3.** Run ``pipeline.py``, which is the main entry-point for the package. It has the following arguments:
+    **Option 2.** Run ``pipeline.py``, which is the main entry-point for the package. It has the following arguments:
 
     | Argument                | Default                 | Description |
     | :---------------------: | :---------------------: | :---- |
     | ``--path_to_data``      | ``../dataset``          | Path to processed string constraints dataset file  |
-    | ``--path_to_outputs``   | ``../outputs_all/outputs_gpt4``     | Path to cache GPT-x responses |
-
-    ***Sample usage:***
-    ```bash
-    
-    ```
+    | ``--path_to_outputs``   | ``../all-outputs/gpt``     | Path to cache GPT-x responses |
 
     ***Note:*** We use the ``seed`` parameter when using the OpenAI chat completion client to ensure reproducible outputs. However, as the OpenAI team notes, sometimes, determinism may be impacted due to necessary changes to model configurations ([[link]](https://platform.openai.com/docs/guides/text-generation/reproducible-outputs)).
 
