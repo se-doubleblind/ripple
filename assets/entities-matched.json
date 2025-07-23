@@ -1,0 +1,402 @@
+{
+  "instance-00009": [
+    "1306",
+    "RANDOM"
+  ],
+  "instance-00030": [
+    "2707",
+    "RANDOM"
+  ],
+  "instance-00032": [
+    "690",
+    "RANDOM"
+  ],
+  "instance-00036": [
+    "1396",
+    "RANDOM"
+  ],
+  "instance-00038": [
+    "1773",
+    "RANDOM"
+  ],
+  "instance-00039": [
+    "1943",
+    "RANDOM"
+  ],
+  "instance-00049": [
+    "2773",
+    "RANDOM"
+  ],
+  "instance-00051": [
+    "1877",
+    "COMMON-METHOD"
+  ],
+  "instance-00054": [
+    "2701",
+    "RANDOM"
+  ],
+  "instance-00055": [
+    "733",
+    "RANDOM"
+  ],
+  "instance-00059": [
+    "1444",
+    "COMMON-METHOD"
+  ],
+  "instance-00070": [
+    "2604",
+    "RANDOM"
+  ],
+  "instance-00106": [
+    "630",
+    "RANDOM"
+  ],
+  "instance-00111": [
+    "438",
+    "COMMON-CLASS"
+  ],
+  "instance-00112": [
+    "3137",
+    "RANDOM"
+  ],
+  "instance-00117": [
+    "1365",
+    "RANDOM"
+  ],
+  "instance-00123": [
+    "98",
+    "RANDOM"
+  ],
+  "instance-00134": [
+    "2701",
+    "RANDOM"
+  ],
+  "instance-00141": [
+    "3254",
+    "COMMON-METHOD"
+  ],
+  "instance-00143": [
+    "4369",
+    "COMMON-METHOD"
+  ],
+  "instance-00150": [
+    "4653",
+    "RANDOM"
+  ],
+  "instance-00165": [
+    "5423",
+    "COMMON-METHOD"
+  ],
+  "instance-00183": [
+    "3294",
+    "COMMON-METHOD"
+  ],
+  "instance-00188": [
+    "796",
+    "RANDOM"
+  ],
+  "instance-00192": [
+    "5002",
+    "COMMON-METHOD"
+  ],
+  "instance-00201": [
+    "653",
+    "COMMON-METHOD"
+  ],
+  "instance-00220": [
+    "1848",
+    "COMMON-METHOD"
+  ],
+  "instance-00228": [
+    "602",
+    "COMMON-METHOD"
+  ],
+  "instance-00233": [
+    "1395",
+    "COMMON-METHOD"
+  ],
+  "instance-00237": [
+    "647",
+    "RANDOM"
+  ],
+  "instance-00243": [
+    "993",
+    "RANDOM"
+  ],
+  "instance-00246": [
+    "1124",
+    "COMMON-CLASS"
+  ],
+  "instance-00257": [
+    "3820",
+    "COMMON-CLASS"
+  ],
+  "instance-00261": [
+    "1349",
+    "COMMON-METHOD"
+  ],
+  "instance-00263": [
+    "4077",
+    "COMMON-CLASS"
+  ],
+  "instance-00266": [
+    "2852",
+    "COMMON-METHOD"
+  ],
+  "instance-00270": [
+    "3233",
+    "RANDOM"
+  ],
+  "instance-00277": [
+    "2623",
+    "COMMON-CLASS"
+  ],
+  "instance-00289": [
+    "2857",
+    "RANDOM"
+  ],
+  "instance-00305": [
+    "672",
+    "COMMON-METHOD"
+  ],
+  "instance-00316": [
+    "953",
+    "COMMON-METHOD"
+  ],
+  "instance-00317": [
+    "2609",
+    "COMMON-CLASS"
+  ],
+  "instance-00319": [
+    "557",
+    "COMMON-METHOD"
+  ],
+  "instance-00323": [
+    "492",
+    "COMMON-METHOD"
+  ],
+  "instance-00330": [
+    "107",
+    "RANDOM"
+  ],
+  "instance-00333": [
+    "108",
+    "COMMON-CLASS"
+  ],
+  "instance-00342": [
+    "79",
+    "COMMON-METHOD"
+  ],
+  "instance-00388": [
+    "1119",
+    "COMMON-METHOD"
+  ],
+  "instance-00393": [
+    "742",
+    "COMMON-METHOD"
+  ],
+  "instance-00408": [
+    "271",
+    "COMMON-METHOD"
+  ],
+  "instance-00413": [
+    "126",
+    "COMMON-CLASS"
+  ],
+  "instance-00418": [
+    "1012",
+    "COMMON-METHOD"
+  ],
+  "instance-00436": [
+    "1649",
+    "COMMON-METHOD"
+  ],
+  "instance-00455": [
+    "656",
+    "COMMON-METHOD"
+  ],
+  "instance-00457": [
+    "515",
+    "COMMON-CLASS"
+  ],
+  "instance-00459": [
+    "1576",
+    "COMMON-CLASS"
+  ],
+  "instance-00483": [
+    "65",
+    "COMMON-METHOD"
+  ],
+  "instance-00503": [
+    "641",
+    "COMMON-CLASS"
+  ],
+  "instance-00506": [
+    "850",
+    "COMMON-CLASS"
+  ],
+  "instance-00519": [
+    "574",
+    "COMMON-CLASS"
+  ],
+  "instance-00531": [
+    "1993",
+    "COMMON-METHOD"
+  ],
+  "instance-00536": [
+    "1303",
+    "COMMON-METHOD"
+  ],
+  "instance-00539": [
+    "370",
+    "COMMON-METHOD"
+  ],
+  "instance-00542": [
+    "1147",
+    "COMMON-METHOD"
+  ],
+  "instance-00551": [
+    "1316",
+    "COMMON-CLASS"
+  ],
+  "instance-00581": [
+    "933",
+    "RANDOM"
+  ],
+  "instance-00592": [
+    "390",
+    "COMMON-CLASS"
+  ],
+  "instance-00597": [
+    "1713",
+    "RANDOM"
+  ],
+  "instance-00601": [
+    "1656",
+    "RANDOM"
+  ],
+  "instance-00620": [
+    "307",
+    "COMMON-CLASS"
+  ],
+  "instance-00632": [
+    "684",
+    "COMMON-CLASS"
+  ],
+  "instance-00636": [
+    "584",
+    "RANDOM"
+  ],
+  "instance-00646": [
+    "1465",
+    "COMMON-CLASS"
+  ],
+  "instance-00647": [
+    "1999",
+    "COMMON-CLASS"
+  ],
+  "instance-00663": [
+    "641",
+    "RANDOM"
+  ],
+  "instance-00675": [
+    "261",
+    "COMMON-CLASS"
+  ],
+  "instance-00685": [
+    "8374",
+    "RANDOM"
+  ],
+  "instance-00689": [
+    "3922",
+    "COMMON-METHOD"
+  ],
+  "instance-00699": [
+    "3276",
+    "COMMON-CLASS"
+  ],
+  "instance-00700": [
+    "4555",
+    "COMMON-CLASS"
+  ],
+  "instance-00712": [
+    "3004",
+    "COMMON-METHOD"
+  ],
+  "instance-00716": [
+    "809",
+    "RANDOM"
+  ],
+  "instance-00717": [
+    "2008",
+    "COMMON-CLASS"
+  ],
+  "instance-00718": [
+    "1178",
+    "COMMON-METHOD"
+  ],
+  "instance-00730": [
+    "777",
+    "RANDOM"
+  ],
+  "instance-00734": [
+    "1225",
+    "RANDOM"
+  ],
+  "instance-00752": [
+    "462",
+    "COMMON-CLASS"
+  ],
+  "instance-00753": [
+    "2529",
+    "COMMON-METHOD"
+  ],
+  "instance-00764": [
+    "937",
+    "RANDOM"
+  ],
+  "instance-00765": [
+    "961",
+    "RANDOM"
+  ],
+  "instance-00766": [
+    "1642",
+    "COMMON-METHOD"
+  ],
+  "instance-00779": [
+    "202",
+    "COMMON-CLASS"
+  ],
+  "instance-00782": [
+    "810",
+    "COMMON-CLASS"
+  ],
+  "instance-00785": [
+    "1319",
+    "RANDOM"
+  ],
+  "instance-00813": [
+    "1958",
+    "COMMON-METHOD"
+  ],
+  "instance-00816": [
+    "5181",
+    "COMMON-METHOD"
+  ],
+  "instance-00842": [
+    "367",
+    "RANDOM"
+  ],
+  "instance-00847": [
+    "161",
+    "COMMON-CLASS"
+  ],
+  "instance-00849": [
+    "574",
+    "RANDOM"
+  ],
+  "instance-00863": [
+    "136",
+    "RANDOM"
+  ]
+}

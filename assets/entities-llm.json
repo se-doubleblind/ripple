@@ -1,0 +1,502 @@
+{
+  "instance-00766": [
+    "CassandraStore,addOrUpdateField",
+    "1636",
+    "LLM"
+  ],
+  "instance-00134": [
+    "PomReader,getPackaging",
+    "2758",
+    "LLM"
+  ],
+  "instance-00030": [
+    "IvyResolve,setResolveMode",
+    "782",
+    "LLM"
+  ],
+  "instance-00330": [
+    "BeanUtils,setProperty",
+    "17",
+    "LLM"
+  ],
+  "instance-00289": [
+    "DocumentCategorizerME,train",
+    "932",
+    "LLM"
+  ],
+  "instance-00266": [
+    "DormandPrince853Integrator,integrate",
+    "542",
+    "RANDOM"
+  ],
+  "instance-00165": [
+    "FileUtil,dissect",
+    "5423",
+    "LLM"
+  ],
+  "instance-00123": [
+    "AbstractResourceResolver,convertM2IdForResourceSearch",
+    "2064",
+    "LLM"
+  ],
+  "instance-00816": [
+    "PigSchemaConverter,convertFields",
+    "5175",
+    "LLM"
+  ],
+  "instance-00647": [
+    "FtpFileObject,doGetOutputStream",
+    "2001",
+    "LLM"
+  ],
+  "instance-00106": [
+    "IvyReport,setOutputpattern",
+    "626",
+    "LLM"
+  ],
+  "instance-00700": [
+    "WorkerProgressWriter,run",
+    "4555",
+    "LLM"
+  ],
+  "instance-00506": [
+    "Digester,setClassLoader",
+    "322",
+    "LLM"
+  ],
+  "instance-00038": [
+    "IvyCachePath,doExecute",
+    "207",
+    "LLM"
+  ],
+  "instance-00036": [
+    "IvyResolve,execute",
+    "697",
+    "LLM"
+  ],
+  "instance-00112": [
+    "PomModuleDescriptorParser,parseDescriptor",
+    "3149",
+    "LLM"
+  ],
+  "instance-00261": [
+    "RandomDataImpl,nextInt",
+    "1348",
+    "LLM"
+  ],
+  "instance-00277": [
+    "DictionaryLemmatizer,DictionaryLemmatizer",
+    "2617",
+    "LLM"
+  ],
+  "instance-00601": [
+    "IMAP,sendCommand",
+    "1637",
+    "LLM"
+  ],
+  "instance-00712": [
+    "CounterUtils,waitAndGetCounterNameFromGroup",
+    "3979",
+    "LLM"
+  ],
+  "instance-00032": [
+    "IvyConfigure,setSettingsId",
+    "280",
+    "LLM"
+  ],
+  "instance-00663": [
+    "FileSystemManager,closeFileSystem",
+    "190",
+    "LLM"
+  ],
+  "instance-00237": [
+    "AbstractRealDistribution,inverseCumulativeProbability",
+    "646",
+    "LLM"
+  ],
+  "instance-00863": [
+    "SCXMLSemanticsImpl,enumerateReachableTransitions",
+    "625",
+    "LLM"
+  ],
+  "instance-00779": [
+    "GoraRecordReader,close",
+    "202",
+    "LLM"
+  ],
+  "instance-00847": [
+    "SCXMLSemanticsImpl,finalStep",
+    "837",
+    "LLM"
+  ],
+  "instance-00503": [
+    "BinderClassLoader,createBinderClassLoader",
+    "638",
+    "LLM"
+  ],
+  "instance-00263": [
+    "SimplexSolver,doOptimize",
+    "4084",
+    "LLM"
+  ],
+  "instance-00539": [
+    "CompositeCache,update",
+    "2089",
+    "LLM"
+  ],
+  "instance-00699": [
+    "JobProgressTracker,process",
+    "3278",
+    "LLM"
+  ],
+  "instance-00333": [
+    "BeanUtilsBean,getInstance",
+    "107",
+    "LLM"
+  ],
+  "instance-00009": [
+    "ChainResolver,getDependency",
+    "1343",
+    "LLM"
+  ],
+  "instance-00188": [
+    "Distribution,cumulativeProbability",
+    "913",
+    "LLM"
+  ],
+  "instance-00842": [
+    "SCInstance,detach",
+    "70",
+    "LLM"
+  ],
+  "instance-00413": [
+    "CpioArchiveOutputStream,writeHeader",
+    "130",
+    "LLM"
+  ],
+  "instance-00183": [
+    "MathUtils,gcd",
+    "3294",
+    "LLM"
+  ],
+  "instance-00257": [
+    "class_name=\"KMeansPlusPlusClusterer\",method_name=\"cluster\"",
+    "4398",
+    "RANDOM"
+  ],
+  "instance-00408": [
+    "TarArchiveOutputStream,finish",
+    "244",
+    "LLM"
+  ],
+  "instance-00111": [
+    "IvyCacheFileset,getPath",
+    "437",
+    "LLM"
+  ],
+  "instance-00459": [
+    "CombinedConfigurationBuilder,initResultInstance",
+    "1544",
+    "LLM"
+  ],
+  "instance-00117": [
+    "Ivy,loadProperties",
+    "319",
+    "LLM"
+  ],
+  "instance-00436": [
+    "XMLPropertyListConfiguration,printValue",
+    "1649",
+    "LLM"
+  ],
+  "instance-00418": [
+    "AbstractConfiguration,getList",
+    "61",
+    "LLM"
+  ],
+  "instance-00717": [
+    "HiveEdgeReader,initialize",
+    "3290",
+    "LLM"
+  ],
+  "instance-00317": [
+    "MethodGen,removeNOPs",
+    "2634",
+    "LLM"
+  ],
+  "instance-00054": [
+    "LatestCompatibleConflictManager,resolveConflicts",
+    "2698",
+    "LLM"
+  ],
+  "instance-00551": [
+    "RemoteCacheNoWaitFacade,RemoteCacheNoWaitFacade",
+    "1316",
+    "LLM"
+  ],
+  "instance-00636": [
+    "UrlValidator,isValid",
+    "199",
+    "LLM"
+  ],
+  "instance-00150": [
+    "Ivy,getResolutionCacheManager",
+    "96",
+    "LLM"
+  ],
+  "instance-00457": [
+    "DatabaseConfiguration,close",
+    "526",
+    "LLM"
+  ],
+  "instance-00141": [
+    "Ivy,Ivy",
+    "55",
+    "LLM"
+  ],
+  "instance-00531": [
+    "CompositeCacheManager,setDefaultCacheAttributes",
+    "1986",
+    "LLM"
+  ],
+  "instance-00752": [
+    "DataStoreBase,getFieldsToQuery",
+    "919",
+    "LLM"
+  ],
+  "instance-00581": [
+    "ToStringBuilder,append",
+    "789",
+    "LLM"
+  ],
+  "instance-00542": [
+    "CompositeCacheManager,configure",
+    "2177",
+    "LLM"
+  ],
+  "instance-00782": [
+    "HBaseStore,initialize",
+    "787",
+    "LLM"
+  ],
+  "instance-00765": [
+    "GoraCompiler,compileSchema",
+    "927",
+    "LLM"
+  ],
+  "instance-00319": [
+    "INVOKEDYNAMIC,INVOKEDYNAMIC",
+    "2117",
+    "LLM"
+  ],
+  "instance-00519": [
+    "CountingInputStream,afterRead",
+    "572",
+    "LLM"
+  ],
+  "instance-00192": [
+    "FastMath,abs",
+    "5004",
+    "LLM"
+  ],
+  "instance-00685": [
+    "NettyClient,checkRequestsAfterChannelFailure",
+    "3642",
+    "LLM"
+  ],
+  "instance-00051": [
+    "IvyPatternHelper,substitute",
+    "855",
+    "LLM"
+  ],
+  "instance-00039": [
+    "class_name,IvySettings,loadDefault",
+    "1259",
+    "RANDOM"
+  ],
+  "instance-00620": [
+    "NNTPClient,__parseNewsgroupListEntry",
+    "335",
+    "LLM"
+  ],
+  "instance-00228": [
+    "BicubicSplineInterpolatingFunction,computePartialDerivatives",
+    "602",
+    "LLM"
+  ],
+  "instance-00718": [
+    "class_name,GiraphConfiguration,set",
+    "986",
+    "RANDOM"
+  ],
+  "instance-00270": [
+    "LevenbergMarquardtOptimizer,doOptimize",
+    "3266",
+    "LLM"
+  ],
+  "instance-00059": [
+    "IvyNode,getArtifacts",
+    "1444",
+    "LLM"
+  ],
+  "instance-00764": [
+    "GoraCompiler,compileSchema",
+    "927",
+    "LLM"
+  ],
+  "instance-00785": [
+    "CassandraStore,put",
+    "1350",
+    "LLM"
+  ],
+  "instance-00070": [
+    "PomModuleDescriptorBuilder,addDependencyMgt",
+    "2606",
+    "LLM"
+  ],
+  "instance-00342": [
+    "Base64,encode",
+    "39",
+    "LLM"
+  ],
+  "instance-00246": [
+    "GeneticAlgorithm,nextGeneration",
+    "1127",
+    "LLM"
+  ],
+  "instance-00388": [
+    "SevenZFile,read",
+    "1035",
+    "LLM"
+  ],
+  "instance-00592": [
+    "NNTPClient,__parseNewsgroupListEntry",
+    "335",
+    "LLM"
+  ],
+  "instance-00813": [
+    "ValidTypeMap,assertTypeValid",
+    "1958",
+    "LLM"
+  ],
+  "instance-00849": [
+    "SCXMLDigester,addParallelRules",
+    "295",
+    "LLM"
+  ],
+  "instance-00323": [
+    "JavaClass,equals",
+    "1227",
+    "LLM"
+  ],
+  "instance-00316": [
+    "StackMapTableEntry,copy",
+    "1021",
+    "LLM"
+  ],
+  "instance-00201": [
+    "BicubicSplineInterpolatingFunction,value",
+    "598",
+    "LLM"
+  ],
+  "instance-00632": [
+    "NNTPClient,__parseNewsgroupListEntry",
+    "642",
+    "LLM"
+  ],
+  "instance-00243": [
+    "AbstractRealDistribution,inverseCumulativeProbability",
+    "806",
+    "LLM"
+  ],
+  "instance-00675": [
+    "FileSystemConfigBuilder,getBoolean",
+    "254",
+    "LLM"
+  ],
+  "instance-00646": [
+    "ThreadLocalHttpConnectionManager,getConnection",
+    "1431",
+    "LLM"
+  ],
+  "instance-00597": [
+    "IMAP,quoteString",
+    "1703",
+    "LLM"
+  ],
+  "instance-00055": [
+    "Ivy,resolve",
+    "126",
+    "LLM"
+  ],
+  "instance-00536": [
+    "JDBCDiskCachePoolAccessManager,setProps",
+    "1306",
+    "LLM"
+  ],
+  "instance-00734": [
+    "BspServiceWorker,loadVerticesFromInputSplit",
+    "1228",
+    "LLM"
+  ],
+  "instance-00143": [
+    "HttpClientHandler,configureProxy",
+    "4378",
+    "LLM"
+  ],
+  "instance-00455": [
+    "AbstractConfiguration,getLong",
+    "42",
+    "LLM"
+  ],
+  "instance-00233": [
+    "SingularValueDecompositionImpl,getSingularValues",
+    "1385",
+    "LLM"
+  ],
+  "instance-00730": [
+    "SimplePageRankVertex,compute",
+    "645",
+    "LLM"
+  ],
+  "instance-00393": [
+    "ZipArchiveOutputStream,write",
+    "742",
+    "LLM"
+  ],
+  "instance-00753": [
+    "SolrStore,getDatumWriter",
+    "2529",
+    "LLM"
+  ],
+  "instance-00716": [
+    "NettyClient,stop",
+    "893",
+    "LLM"
+  ],
+  "instance-00689": [
+    "AllOptions,add",
+    "3922",
+    "LLM"
+  ],
+  "instance-00483": [
+    "ManagedConnection,getInnermostDelegate",
+    "1297",
+    "LLM"
+  ],
+  "instance-00220": [
+    "EigenDecomposition,getEigenvector",
+    "1842",
+    "LLM"
+  ],
+  "instance-00305": [
+    "SearchAction,quickSearch",
+    "81",
+    "LLM"
+  ],
+  "instance-00049": [
+    "XmlModuleDescriptorUpdater,update",
+    "2758",
+    "LLM"
+  ]
+}
